@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f411017c-4595-4a05-acca-5628182cc53a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders Notlari/AllTasks.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders Notlari/Ders sonu Tum Notlar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AutomationPracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoGuruPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoQaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EditorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HMCPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuappPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/WebUniversityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelTestRunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelTestRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Review_Qts.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1001_amazonsearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1002_background.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1003_ParametreKullanimi.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1004_ParametreIleIstenenSayfayaGitme.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1005_PositiveLoginTesti.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1006_NegativeLoginTesti.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1007_ScenarioOutlineIleAmazonSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1008_ScenarioOutlineIleNegativeLoginTesti.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1009_EditorKayit.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1010_HerokuappAddElement.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1011_WebUniversity.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_DemoWebTable.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1013_AutomationPractice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1014_DemoQaDinamikElementler.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LxQy4XHPA9mlzrTWigxGba6wsd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/CucumberAllTasks/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks\src\test\java" />
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks\src\test" />
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks" />
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks\src" />
+      <recent name="C:\Users\ibrko\IdeaProjects\CucumberAllTasks\src\test\Ders Notlari" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f411017c-4595-4a05-acca-5628182cc53a" name="Changes" comment="" />
+      <created>1676810506967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676810506967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
